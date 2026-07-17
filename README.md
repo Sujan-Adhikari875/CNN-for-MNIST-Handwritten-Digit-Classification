@@ -102,7 +102,7 @@ The notebook also demonstrates:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/CNN_For_MNIST.git
+https://github.com/Sujan-Adhikari875/CNN-for-MNIST-Handwritten-Digit-Classification.git
 ```
 
 2. Install dependencies
@@ -121,6 +121,5 @@ jupyter notebook CNN_For_MNIST.ipynb
 
 ## Author
 
-Rajeev
+ADHIKARI SUJAN
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
